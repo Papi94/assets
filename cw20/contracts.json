@@ -64,6 +64,11 @@
       "protocol": "Terraswap",
       "name": "mQQQ-UST LP",
       "icon": "https://whitelist.mirror.finance/icon/QQQ.png"
+    },    
+    "terra1rqkyau9hanxtn63mjrdfhpnkpddztv3qav0tq2": {
+      "protocol": "Terraswap",
+      "name": "MINE-UST LP",
+      "icon": "soon"
     },
     "terra1ea9js3y4l7vy0h46k4e5r5ykkk08zc3fx7v4t8": {
       "protocol": "Terraswap",
